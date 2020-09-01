@@ -1,2 +1,2 @@
 # u-translate
-basic NLP TOOL
+A basic NLP TOOL.
